@@ -1,0 +1,1 @@
+- basic minimax implementation
