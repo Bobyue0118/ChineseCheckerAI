@@ -7,4 +7,4 @@
 1. Depth vs Memory  
 2. Weight of Horizon
 # The Most Advanced Version 
-[agent(s).py](./agents.py)
+- [agent(s).py](./agents.py)
