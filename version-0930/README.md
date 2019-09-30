@@ -1,2 +1,3 @@
 # Changes
-opponent_horizon_count <---- player_horizon_count
+- opponent_horizon_count <---- player_horizon_count
+- "stuck" solved!
