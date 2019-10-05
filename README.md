@@ -12,3 +12,6 @@ Bo Yue & Chi Zhang in Automation Department, SEIEE, SJTU.
 
 ### Latest Version for agent.py
 [agent.py](https://github.com/Bobyue0118/ChineseCheckerAI/edit/master/agent.py)
+
+### Our Report
+
