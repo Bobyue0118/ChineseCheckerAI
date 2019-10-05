@@ -14,4 +14,5 @@ Bo Yue & Chi Zhang in Automation Department, SEIEE, SJTU.
 [agent.py](https://github.com/Bobyue0118/ChineseCheckerAI/edit/master/agent.py)
 
 ### Our Report
+[HW2.pdf](https://github.com/Bobyue0118/ChineseCheckerAI/edit/master/HW2pdf)
 
