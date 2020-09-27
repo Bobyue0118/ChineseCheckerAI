@@ -13,7 +13,7 @@ python3 runGame.py
 ```
 
 ### Our Report
-[HW2.pdf](https://github.com/Bobyue0118/ChineseCheckerAI/edit/master/HW2.pdf)
+[HW2.pdf](https://github.com/Bobyue0118/ChineseCheckerAI/blob/master/doc/HW2_report.pdf)
 
 ### Project Participant
 Bo Yue & Chi Zhang in Automation Department, SEIEE, SJTU. 
